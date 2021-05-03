@@ -1,0 +1,25 @@
+.box {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.colortext{
+  color: white;
+}
+
+ h5 {
+  text-align: center;
+}
+
+.link{
+  color:white;
+}
+
+.boxfooter{
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.bg-color{
+  background-color: #262626;
+}
